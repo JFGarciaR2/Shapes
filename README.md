@@ -1,9 +1,8 @@
 # Shapes
  Shapes by Juan Fernando Garcia
-
- Contact me...
- juan.garcia36856@gmail.com
- juan.garcia36856@ucaldas.edu.co
- +57 302 321 70 19 
- Ig : @jfgarciar2
+ 
+- 👋 Hi, I’m @JFGarciaR2
+- 👀 I’m interested in Full stack engineer...
+- 🌱 I’m currently learning OOP Java, JavaScript, HTML, CSS, Python
+- 📫 How to reach me: juan.garcia36856@ucaldas.edu.co juan.garcia36856@gmail.com +57 3023217019 ...
  
